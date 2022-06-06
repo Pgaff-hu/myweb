@@ -64,8 +64,8 @@ a::hover::after {
 
 img {
   position: absolute;
-  width: 25px;
-  height: 25px;
-  top: 17px;
-  right: 13px;
+  width: 35px;
+  height: 35px;
+  top: 15px;
+  right: 15px;
 }
