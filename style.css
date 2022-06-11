@@ -15,8 +15,8 @@
 background: #f5f5f5;
 }
 .logo{
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   cursor: pointer;
 }
 .navbar ul li{
@@ -55,6 +55,6 @@ background: #f5f5f5;
   margin-right: 15px;
 }
 #icon{
-  width: 38px;
+  width: 98px;
   cursor: pointer;
 }
