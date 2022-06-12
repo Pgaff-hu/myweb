@@ -12,23 +12,12 @@
   position: relative;
 }
 .navbar{
-background: #f5f5f5;
+  font-family: sans-serif;
 }
 .logo{
   width: 120px;
   height: 120px;
   cursor: pointer;
-}
-.navbar ul li{
-  list-style: none;
-  display: inline-block;
-  margin: 0 75px;
-}
-
-.navbar ul li a{
-  text-decoration: none;
-  color: #5f5f5f;
-  font-size: 75px;
 }
 .content{
   width: 100%;
