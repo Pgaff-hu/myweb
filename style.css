@@ -15,6 +15,9 @@
   font-family: sans-serif;
   margin-right: 30px;
   font-size: 20px;
+
+#btn{
+  background-image: linear-gradient(to-left,#ff8286,#ff72876)
 }
 .logo{
   width: 120px;
